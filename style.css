@@ -454,3 +454,28 @@ ul {
     text-align: left;
   }
 }
+
+/* About.html page */
+
+.adv-1 {
+	background-image: url(./images/adv.png)
+}
+
+.adv-2 {
+	background-image: url(./images/adv2.jpg)
+}
+
+.adv-3 {
+	background-image: url(./images/adv1.jpg)
+}
+
+.adv-4 {
+	background-image: url(./images/adv4.jpg)
+}
+.adv-5 {
+	background-image: url(./images/adv5.jpg)
+}
+
+.adv-6 {
+	background-image: url(./images/adv3.jpeg)
+}
